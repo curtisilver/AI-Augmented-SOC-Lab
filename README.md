@@ -120,7 +120,8 @@ The filter is the guard clause. The workflow stays silent on empty polls and onl
 ```
 ├── README.md
 ├── report/        Full project report (PDF)
-└── evidence/      Screenshots organised by task (task1 … task4)
+├── evidence/      Screenshots organised by task (task1 ... task4)
+└── scripts/       LogAI anomaly detection script (logai_run.py)
 ```
 
 ## Disclaimer
